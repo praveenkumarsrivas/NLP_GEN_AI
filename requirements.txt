@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+emoji
+demoji
+textblob
+gensim
+sentence-transformers
+langchain
+langchain-community
