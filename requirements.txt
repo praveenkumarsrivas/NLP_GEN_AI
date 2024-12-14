@@ -8,3 +8,5 @@ gensim
 sentence-transformers
 langchain
 langchain-community
+requests
+plotly
